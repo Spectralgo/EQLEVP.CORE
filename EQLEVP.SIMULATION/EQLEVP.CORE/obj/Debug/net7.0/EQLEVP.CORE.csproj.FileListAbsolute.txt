@@ -1,0 +1,15 @@
+C:\code\EQLEVP-Alexandre\EQLEVP.CORE\EQLEVP.CORE\bin\Debug\net7.0\EQLEVP.CORE.exe
+C:\code\EQLEVP-Alexandre\EQLEVP.CORE\EQLEVP.CORE\bin\Debug\net7.0\EQLEVP.CORE.deps.json
+C:\code\EQLEVP-Alexandre\EQLEVP.CORE\EQLEVP.CORE\bin\Debug\net7.0\EQLEVP.CORE.runtimeconfig.json
+C:\code\EQLEVP-Alexandre\EQLEVP.CORE\EQLEVP.CORE\bin\Debug\net7.0\EQLEVP.CORE.dll
+C:\code\EQLEVP-Alexandre\EQLEVP.CORE\EQLEVP.CORE\bin\Debug\net7.0\EQLEVP.CORE.pdb
+C:\code\EQLEVP-Alexandre\EQLEVP.CORE\EQLEVP.CORE\obj\Debug\net7.0\EQLEVP.CORE.csproj.AssemblyReference.cache
+C:\code\EQLEVP-Alexandre\EQLEVP.CORE\EQLEVP.CORE\obj\Debug\net7.0\EQLEVP.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\EQLEVP-Alexandre\EQLEVP.CORE\EQLEVP.CORE\obj\Debug\net7.0\EQLEVP.CORE.AssemblyInfoInputs.cache
+C:\code\EQLEVP-Alexandre\EQLEVP.CORE\EQLEVP.CORE\obj\Debug\net7.0\EQLEVP.CORE.AssemblyInfo.cs
+C:\code\EQLEVP-Alexandre\EQLEVP.CORE\EQLEVP.CORE\obj\Debug\net7.0\EQLEVP.CORE.csproj.CoreCompileInputs.cache
+C:\code\EQLEVP-Alexandre\EQLEVP.CORE\EQLEVP.CORE\obj\Debug\net7.0\EQLEVP.CORE.dll
+C:\code\EQLEVP-Alexandre\EQLEVP.CORE\EQLEVP.CORE\obj\Debug\net7.0\refint\EQLEVP.CORE.dll
+C:\code\EQLEVP-Alexandre\EQLEVP.CORE\EQLEVP.CORE\obj\Debug\net7.0\EQLEVP.CORE.pdb
+C:\code\EQLEVP-Alexandre\EQLEVP.CORE\EQLEVP.CORE\obj\Debug\net7.0\EQLEVP.CORE.genruntimeconfig.cache
+C:\code\EQLEVP-Alexandre\EQLEVP.CORE\EQLEVP.CORE\obj\Debug\net7.0\ref\EQLEVP.CORE.dll
